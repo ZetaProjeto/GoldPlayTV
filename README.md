@@ -23,3 +23,9 @@ Na página `checkout.html`, as ações de pagamento são apresentadas na sequên
 
 ## Layout atualizado
 O resumo do pedido aparece antes de “01 FINALIZE SEU PEDIDO”. O checkout inicia diretamente em “1. COPIE SUA CHAVE PIX”, sem o antigo bloco “Pix, sem complicação” e sem valor duplicado.
+
+
+## Identidade visual ValidaBR (azul e branco)
+O tema claro foi adicionado ao final dos arquivos `style.css` e `checkout.css`, sem alterar o funcionamento dos planos e do Pix. Os códigos da paleta são uma aproximação do estilo azul e branco do ValidaBR, pois o CSS original desse projeto não estava disponível.
+
+Para ajustar a cor principal, procure `#1769e8` nos dois arquivos CSS.
